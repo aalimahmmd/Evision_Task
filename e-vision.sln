@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e-vision", "e-vision\e-vision.csproj", "{AF83347C-E76D-4568-9D4E-6F2541079BCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF83347C-E76D-4568-9D4E-6F2541079BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF83347C-E76D-4568-9D4E-6F2541079BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF83347C-E76D-4568-9D4E-6F2541079BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF83347C-E76D-4568-9D4E-6F2541079BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
